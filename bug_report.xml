@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <Bug template>widget hasn`t rounded corners</Bug template> 
+  <Telegram nickname>@KMaksymS</Telegram nickname>
+  <Bug_id>40</Bug_id>
+  <Title>after placing the widget on the desktop, the widget has right corners</Title>
+  <Severity>Midle</Severity>
+  <Priority>Low</Priority>
+  <Environment>1) OnePlus Nord AC2001 (Oxygen OS 11.1.10.10.AC01DA), Android 11; 2) Honor 20 Android 10 Magic UI 4.0.0; 3) Xiaomi Redmi 5 Plus, android 8.1.0, MIU Global 11.0.2.0; 4)Honor 30, Android 10 Magic UI 4.0.0; 5) Samsung Galaxy A32, Android 11 (A325FXXU1AUH1); 6) Samsung S9 +, Android 10, One UI 2; 7) Pixel 4, Android 11; 8) Xiaomi Redmi Note 9S, Android 11 RKQ1.200826.02, MIUI Global 12.5.5</Environment>
+  <Precondition>App installed on a phone</Precondition>
+  <STR>1) Open App; 2) Click button “add widget”</STR>
+  <AR>On the desktop the widget arises with right corners</AR>
+  <ER>On the desktop the widget arises with rounded corners</ER>
+</bug_report>
